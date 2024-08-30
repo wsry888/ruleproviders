@@ -1,0 +1,6 @@
+payload:
+  - DOMAIN,temu.com
+  - DOMAIN,shein.com
+  - DOMAIN-SUFFIX,temu.com
+  - DOMAIN-SUFFIX,kwcdn.com
+  - DOMAIN-SUFFIX,shein.com
