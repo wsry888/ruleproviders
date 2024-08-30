@@ -1,0 +1,5 @@
+spotify.com
+*.spotify.com
+*.spotify.com
+*.*.spotify.com
+spclient.wg.spotify.com
