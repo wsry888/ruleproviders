@@ -1,17 +1,12 @@
-34.102.164.249:443
-
-34.96.106.127:443
-
-34.107.238.235:443
-
-34.107.238.235:443
-
-34.102.215.99:443
-
-bugreport.indexyz.me:443
-
-34.96.106.127:443
-
-34.95.101.116:443
-
-34.36.75.57:443
+payload:
+  #- DOMAIN,temu.com
+  #- DOMAIN-SUFFIX,temu.com
+  #- DOMAIN-KEYWORD,temu
+  - IP-CIDR,34.102.164.249/32,no-resolve
+  - IP-CIDR,34.96.106.127/32,no-resolve
+  - IP-CIDR,34.107.238.235/32,no-resolve
+  - IP-CIDR,34.107.238.235/32,no-resolve
+  - IP-CIDR,34.102.215.99/32,no-resolve
+  - IP-CIDR,34.96.106.127/32,no-resolve
+  - IP-CIDR,34.95.101.116/32,no-resolve
+  - IP-CIDR,34.36.75.57/32,no-resolve
