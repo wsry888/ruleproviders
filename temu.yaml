@@ -4,3 +4,6 @@ payload:
   - DOMAIN-SUFFIX,temu.com
   - DOMAIN-SUFFIX,kwcdn.com
   - DOMAIN-SUFFIX,shein.com
+  - IP-CIDR,20.15.0.0/16,no-resolve
+  - IP-CIDR,20.47.0.0/16,no-resolve
+  - IP-CIDR,20.33.0.0/16,no-resolve
