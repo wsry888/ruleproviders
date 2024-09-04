@@ -68,3 +68,5 @@ monorail-edge.shopifysvc.com
 analytics.shopify.com
 ct.pinterest.com
 analytics.google.com
+www.similarweb.com
+*.similarweb.com
