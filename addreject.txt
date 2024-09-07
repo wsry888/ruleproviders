@@ -100,7 +100,6 @@ p16-oec-sg.ibyteimg.com
 p16-sign-sg.tiktokcdn.com
 oec16-normal-alisg.tiktokv.com
 api19-core-c-alisg.tiktokv.com
-i.isnssdk.com
 gecko16-normal-alisg.tiktokv.com
 log16-normal-alisg.tiktokv.com
 api19-normal-c-alisg.tiktokv.com
