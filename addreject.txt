@@ -92,3 +92,12 @@ api16-normal-c-alisg.tiktokv.com
 gecko31-normal-alisg.tiktokv.com
 api19-core-c-alisg.tiktokv.com
 oec16-normal-alisg.tiktokv.com
+p16-sign-va.tiktokcdn.com
+p16-sign-sg.tiktokcdn.com
+libra19-normal-alisg.tiktokv.com
+rtlog16-normal-alisg.tiktokv.com
+p16-oec-sg.ibyteimg.com
+p16-sign-sg.tiktokcdn.com
+oec16-normal-alisg.tiktokv.com
+api19-core-c-alisg.tiktokv.com
+i.isnssdk.com
