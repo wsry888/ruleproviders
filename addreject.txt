@@ -81,3 +81,7 @@ hotapi22-normal-alisg.tiktokv.com
 api16-core-c-alisg.tiktokv.com
 vcs-sg.tiktokv.com
 bsync-sg.tiktokv.com
+mssdk-sg.tiktok.com
+starling-sg.tiktokv.com
+mcs-sg.tiktokv.com
+webcast16-normal-c-alisg.tiktokv.com
