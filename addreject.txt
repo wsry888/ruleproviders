@@ -85,3 +85,9 @@ mssdk-sg.tiktok.com
 starling-sg.tiktokv.com
 mcs-sg.tiktokv.com
 webcast16-normal-c-alisg.tiktokv.com
+hotapi19-normal-alisg.tiktokv.com
+webcast19-normal-c-alisg.tiktokv.com
+search19-normal-alisg.tiktokv.com
+api16-normal-c-alisg.tiktokv.com
+gecko31-normal-alisg.tiktokv.com
+api19-core-c-alisg.tiktokv.com
