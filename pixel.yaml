@@ -1,6 +1,8 @@
 payload:
-  #- DOMAIN,temu.com
-  #- DOMAIN-SUFFIX,temu.com
+  - DOMAIN,mon.tiktokv.com
+  - DOMAIN-SUFFIX,mon.tiktokv.com
+  - DOMAIN-KEYWORD,libra22-normal-alis
+  - DOMAIN-KEYWORD,vcs-sg
   - DOMAIN-KEYWORD,webcast16-normal-c-alisg
   - DOMAIN-KEYWORD,log16-normal-alisg
   - DOMAIN-KEYWORD,oec16-normal-alisg
