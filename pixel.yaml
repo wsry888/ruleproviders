@@ -4,6 +4,7 @@ payload:
   - DOMAIN-KEYWORD,webcast16-normal-c-alisg
   - DOMAIN-KEYWORD,log16-normal-alisg
   - DOMAIN-KEYWORD,oec16-normal-alisg
+  - DOMAIN-KEYWORD,webcast16-ws-alisg
   - IP-CIDR,34.102.164.249/32,no-resolve
   - IP-CIDR,34.96.106.127/32,no-resolve
   - IP-CIDR,34.107.238.235/32,no-resolve
