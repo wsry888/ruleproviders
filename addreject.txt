@@ -73,3 +73,11 @@ apm.pinduoduo.com
 meta.pinduoduo.com
 dns.wechat.com
 tbip.alicdn.com
+im-ws-sg.tiktok.com
+webcast16-normal-c-alisg.tiktokv.com
+p16-sg.tiktokcdn.com
+libra22-normal-alisg.tiktokv.com
+hotapi22-normal-alisg.tiktokv.com
+api16-core-c-alisg.tiktokv.com
+vcs-sg.tiktokv.com
+bsync-sg.tiktokv.com
