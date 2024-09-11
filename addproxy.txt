@@ -73,3 +73,5 @@ www.similarweb.com
 *.similarweb.com
 ads.google.com
 channel-app.google
+google-analytics.com
+*.google-analytics.com
