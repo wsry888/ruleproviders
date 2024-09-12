@@ -76,6 +76,9 @@ channel-app.google
 google-analytics.com
 *.google-analytics.com
 tiktokv.com
+mcs-va.tiktokv.com
+mon.tiktokv.com
 *.tiktokv.com
 byteoversea.com
+mon-va.byteoversea.com
 *.byteoversea.com
