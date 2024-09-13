@@ -82,3 +82,5 @@ mon.tiktokv.com
 byteoversea.com
 mon-va.byteoversea.com
 *.byteoversea.com
+*.linktr.ee
+linktr.ee
