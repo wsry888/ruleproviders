@@ -3,7 +3,6 @@ screenstudioassets.com
 tpstelemetry.tencent.com
 mazu.m.qq.com
 dorangesource.alicdn.com
-apm.lebo.cn
 maplocatesdksnapshot.d.meituan.net
 route-stats.d.meituan.net
 metrics-picture.d.meituan.net
