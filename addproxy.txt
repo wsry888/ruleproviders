@@ -86,3 +86,5 @@ mon-va.byteoversea.com
 linktr.ee
 whatismyip.com
 *.whatismyip.com
+myip.ms
+*.myip.ms
