@@ -10,5 +10,3 @@ payload:
   - IP-CIDR,34.96.106.127/32,no-resolve
   - IP-CIDR,34.95.101.116/32,no-resolve
   - IP-CIDR,34.36.75.57/32,no-resolve
-  #tk
-  - DOMAIN-SUFFIX,tiktokv.com
