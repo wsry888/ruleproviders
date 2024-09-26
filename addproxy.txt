@@ -64,9 +64,6 @@ ipify.org
 fanchenstatic.com
 *.fanchenstatic.com
 analytics.pinterest.com
-monorail-edge.shopifysvc.com
-*.shopifysvc.com
-analytics.shopify.com
 ct.pinterest.com
 analytics.google.com
 www.similarweb.com
