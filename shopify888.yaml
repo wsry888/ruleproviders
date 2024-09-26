@@ -28,3 +28,4 @@ payload:
   - IP-CIDR,23.227.63.128/26,no-resolve
   - IP-CIDR,23.227.63.192/27,no-resolve
   - IP-CIDR,23.227.63.224/31,no-resolve
+  - IP-CIDR,185.146.172.0/22,no-resolve
