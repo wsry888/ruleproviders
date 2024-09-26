@@ -85,3 +85,4 @@ whatismyip.com
 *.whatismyip.com
 myip.ms
 *.myip.ms
+*.googlesyndication.com
