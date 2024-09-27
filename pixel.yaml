@@ -14,3 +14,7 @@ payload:
   - IP-CIDR,23.64.0.0/14,no-resolve
   - IP-CIDR,23.32.0.0/11,no-resolve
   - IP-CIDR,98.96.192.0/18,no-resolve
+  - DOMAIN-SUFFIX,lemon8cdn.com
+  - DOMAIN-SUFFIX,lemon8-app.com
+  - DOMAIN-KEYWORD,lemon8
+  
