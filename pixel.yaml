@@ -11,12 +11,17 @@ payload:
   - IP-CIDR,34.95.101.116/32,no-resolve
   - IP-CIDR,34.36.75.57/32,no-resolve
   - IP-CIDR,199.103.24.0/23,no-resolve
+  #tiktok
   - IP-CIDR,23.64.0.0/14,no-resolve
   - IP-CIDR,23.32.0.0/11,no-resolve
   - IP-CIDR,98.96.192.0/18,no-resolve
   - IP-CIDR,23.192.0.0/11,no-resolve
   - IP-CIDR,71.18.0.0/16,no-resolve
+  #lemon8
   - DOMAIN-SUFFIX,lemon8cdn.com
   - DOMAIN-SUFFIX,lemon8-app.com
   - DOMAIN-KEYWORD,lemon8
-  
+  #taboola
+  - DOMAIN,taboola.com
+  - DOMAIN-SUFFIX,taboola.com
+  - DOMAIN-KEYWORD,taboola
