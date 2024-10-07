@@ -17,6 +17,9 @@ payload:
   - IP-CIDR,98.96.192.0/18,no-resolve
   - IP-CIDR,23.192.0.0/11,no-resolve
   - IP-CIDR,71.18.0.0/16,no-resolve
+  - DOMAIN-SUFFIX,byteoversea.net
+  - DOMAIN-KEYWORD,byteoversea
+  - DOMAIN-SUFFIX,pangle.io
   #lemon8
   - DOMAIN-SUFFIX,lemon8cdn.com
   - DOMAIN-SUFFIX,lemon8-app.com
