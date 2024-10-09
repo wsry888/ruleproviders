@@ -20,6 +20,9 @@ payload:
   - DOMAIN-SUFFIX,byteoversea.net
   - DOMAIN-KEYWORD,byteoversea
   - DOMAIN-SUFFIX,pangle.io
+  - DOMAIN-SUFFIX,byteeffecttos-g.com
+  - DOMAIN-SUFFIX,pitaya-clientai.com
+  - DOMAIN-SUFFIX,akamaized.net
   #lemon8
   - DOMAIN-SUFFIX,lemon8cdn.com
   - DOMAIN-SUFFIX,lemon8-app.com
