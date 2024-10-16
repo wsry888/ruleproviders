@@ -31,3 +31,6 @@ payload:
   - DOMAIN,taboola.com
   - DOMAIN-SUFFIX,taboola.com
   - DOMAIN-KEYWORD,taboola
+  #ahrefs
+  - DOMAIN-SUFFIX,ahrefs.com
+  - DOMAIN-SUFFIX,ahrefs.dev
