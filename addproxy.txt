@@ -80,3 +80,8 @@ googletraveladservices.com
 *.googletraveladservices.com
 *.segment.com
 segment.com
+doubleclick.net
+*.doubleclick.net
+*.*.doubleclick.net
+*.hotjar.com
+adroll.com
