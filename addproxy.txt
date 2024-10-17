@@ -78,3 +78,5 @@ googletagmanager.com
 dl.google.com
 googletraveladservices.com
 *.googletraveladservices.com
+*.segment.com
+segment.com
