@@ -34,6 +34,3 @@ payload:
   #ahrefs
   - DOMAIN-SUFFIX,ahrefs.com
   - DOMAIN-SUFFIX,ahrefs.dev
-  #exe
-  - PROCESS-NAME,powershell.exe
-  - PROCESS-NAME,SunBrowser.exe
