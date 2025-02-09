@@ -1,0 +1,11 @@
+# CiciAI
+PROCESS-NAME,Cici Helper
+DOMAIN-KEYWORD,cici
+DOMAIN-KEYWORD,ciciai
+DOMAIN-SUFFIX,cici.com
+DOMAIN-SUFFIX,ciciai.com
+#DOMAIN-SUFFIX,byteoversea.com
+#DOMAIN-SUFFIX,itobsnssdk.com
+DOMAIN-SUFFIX,ciciaicdn.com
+PROCESS-NAME,Cici
+PROCESS-NAME,Cici Helper (Renderer)
