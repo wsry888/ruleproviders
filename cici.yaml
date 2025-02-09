@@ -1,10 +1,8 @@
 payload:
-  #- CiciAI
-  - PROCESS-NAME,Cici Helper
+  #CiciAI
   - DOMAIN-SUFFIX,cici.com
   - DOMAIN-SUFFIX,ciciai.com
-  #- DOMAIN-SUFFIX,byteoversea.com
-  #- DOMAIN-SUFFIX,itobsnssdk.com
   - DOMAIN-SUFFIX,ciciaicdn.com
   - PROCESS-NAME,Cici
+  - PROCESS-NAME,Cici Helper
   - PROCESS-NAME,Cici Helper (Renderer)
