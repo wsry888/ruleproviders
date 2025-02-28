@@ -36,7 +36,6 @@ www.cip.cc
 whois.pconline.com.cn
 api.vvhan.com
 *.ip-api.com
-ipinfo.io
 *.ip.sb
 *.*.ip.sb
 ip.sb
@@ -44,7 +43,6 @@ ip.sb
 *.ip138.com
 ip138.com
 ipip.net
-ipinfo.io
 *.ipapi.is
 ipapi.is
 *.*.ip-api.com
