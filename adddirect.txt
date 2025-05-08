@@ -82,3 +82,5 @@ fanczs.com
 *.fanczs.com
 *.geiwohuo.com
 geiwohuo.com
+*.canon.*
+*.canon
