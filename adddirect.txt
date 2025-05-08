@@ -87,3 +87,5 @@ canon.com
 *.*.canon.com
 *.canon
 *.*.canon
+canonical.com
+*.canonical.com
