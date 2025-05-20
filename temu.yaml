@@ -27,4 +27,5 @@ payload:
   - DOMAIN,assets.adobedtm.com
   - DOMAIN-SUFFIX,behance.com
   - DOMAIN-SUFFIX,behance.net
+  - DOMAIN-KEYWORD,behance
   
