@@ -18,5 +18,13 @@ payload:
   - DOMAIN-SUFFIX,diabrowser.engineering
   - DOMAIN-KEYWORD,diabrowser
   - DOMAIN-KEYWORD,dia
-
+  #behance
+  - DOMAIN,wwwwimages2.adobe.com
+  - DOMAIN,sstats.adobe.com
+  - DOMAIN,static.adobelogin.com
+  - DOMAIN,a5.behance.net
+  - DOMAIN,mir-s3-cdn-cf.behance.net
+  - DOMAIN,assets.adobedtm.com
+  - DOMAIN-SUFFIX,behance.com
+  - DOMAIN-SUFFIX,behance.net
   
