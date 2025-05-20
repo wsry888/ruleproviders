@@ -1,4 +1,5 @@
 payload:
+  #temu
   - DOMAIN,temu.com
   - DOMAIN,shein.com
   - DOMAIN-SUFFIX,temu.com
@@ -11,5 +12,11 @@ payload:
   - IP-CIDR,20.82.0.0/16,no-resolve
   - IP-CIDR,20.157.0.0/16,no-resolve
   - IP-CIDR,132.145.0.0/16,no-resolve
+  #dia浏览器，指定给US分流
+  - DOMAIN,api.segment.io
+  - DOMAIN-SUFFIX,launchdarkly.com
+  - DOMAIN-SUFFIX,diabrowser.engineering
+  - DOMAIN-KEYWORD,diabrowser
+  - DOMAIN-KEYWORD,dia
 
   
