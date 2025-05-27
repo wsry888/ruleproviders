@@ -6,12 +6,6 @@ payload:
   - DOMAIN-SUFFIX,kwcdn.com
   - DOMAIN-SUFFIX,shein.com
   - DOMAIN-KEYWORD,temu
-  - IP-CIDR,20.15.0.0/16,no-resolve
-  - IP-CIDR,20.47.0.0/16,no-resolve
-  - IP-CIDR,20.33.0.0/16,no-resolve
-  - IP-CIDR,20.82.0.0/16,no-resolve
-  - IP-CIDR,20.157.0.0/16,no-resolve
-  - IP-CIDR,132.145.0.0/16,no-resolve
   #dia浏览器，指定给US分流
   - DOMAIN,api.segment.io
   - DOMAIN-SUFFIX,launchdarkly.com
