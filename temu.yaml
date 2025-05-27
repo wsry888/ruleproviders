@@ -7,7 +7,6 @@ payload:
   - DOMAIN-SUFFIX,shein.com
   - DOMAIN-KEYWORD,temu
   #dia浏览器，指定给US分流
-  - DOMAIN,api.segment.io
   - DOMAIN-SUFFIX,launchdarkly.com
   - DOMAIN-SUFFIX,diabrowser.engineering
   - DOMAIN-KEYWORD,diabrowser
