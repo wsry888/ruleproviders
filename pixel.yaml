@@ -1,28 +1,4 @@
 payload:
-  #- DOMAIN,mon.tiktokv.com
-  #- DOMAIN-SUFFIX,mon.tiktokv.com
-  #- DOMAIN-KEYWORD,libra22-normal-alis
-  - IP-CIDR,34.102.164.249/32,no-resolve
-  - IP-CIDR,34.96.106.127/32,no-resolve
-  - IP-CIDR,34.107.238.235/32,no-resolve
-  - IP-CIDR,34.107.238.235/32,no-resolve
-  - IP-CIDR,34.102.215.99/32,no-resolve
-  - IP-CIDR,34.96.106.127/32,no-resolve
-  - IP-CIDR,34.95.101.116/32,no-resolve
-  - IP-CIDR,34.36.75.57/32,no-resolve
-  - IP-CIDR,199.103.24.0/23,no-resolve
-  #tiktok
-  - IP-CIDR,23.64.0.0/14,no-resolve
-  - IP-CIDR,23.32.0.0/11,no-resolve
-  - IP-CIDR,98.96.192.0/18,no-resolve
-  - IP-CIDR,23.192.0.0/11,no-resolve
-  - IP-CIDR,71.18.0.0/16,no-resolve
-  - DOMAIN-SUFFIX,byteoversea.net
-  - DOMAIN-KEYWORD,byteoversea
-  - DOMAIN-SUFFIX,pangle.io
-  - DOMAIN-SUFFIX,byteeffecttos-g.com
-  - DOMAIN-SUFFIX,pitaya-clientai.com
-  - DOMAIN-SUFFIX,akamaized.net
   #lemon8
   - DOMAIN-SUFFIX,lemon8cdn.com
   - DOMAIN-SUFFIX,lemon8-app.com
