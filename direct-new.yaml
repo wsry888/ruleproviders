@@ -10,6 +10,6 @@ payload:
   - DOMAIN-SUFFIX,canonproprinters.com
   - DOMAIN-SUFFIX,canon.net
   - DOMAIN-SUFFIX,canonical.com
-  - DOMAIN-SUFFIX,micu.hk,DIRECT
-  - DOMAIN,tv.micu.hk,DIRECT
+  - DOMAIN-SUFFIX,micu.hk
+  - DOMAIN,tv.micu.hk
   
