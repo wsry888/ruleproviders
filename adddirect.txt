@@ -89,3 +89,5 @@ canon.com
 *.*.canon
 canonical.com
 *.canonical.com
+micu.hk
+*.micu.hk
