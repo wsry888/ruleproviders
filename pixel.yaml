@@ -18,3 +18,5 @@ payload:
   #customer.io
   - DOMAIN-SUFFIX,customer.io
   - DOMAIN-SUFFIX,gist.build
+  #growthbook.io
+  - DOMAIN-SUFFIX,growthbook.io
