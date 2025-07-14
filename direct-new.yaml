@@ -12,4 +12,8 @@ payload:
   - DOMAIN-SUFFIX,canonical.com
   - DOMAIN-SUFFIX,micu.hk
   - DOMAIN,tv.micu.hk
+  - DOMAIN-SUFFIX,chnprice.com
+  - DOMAIN-SUFFIX,aliprice.com
+  
+  
   
