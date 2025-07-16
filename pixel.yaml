@@ -20,3 +20,5 @@ payload:
   - DOMAIN-SUFFIX,gist.build
   #growthbook.io
   - DOMAIN-SUFFIX,growthbook.io
+  #ip-aiyun机器
+  - IP-CIDR,38.105.30.147/32,no-resolve
