@@ -1,5 +1,6 @@
 payload:
   #temu
+  #指定US
   - DOMAIN,temu.com
   - DOMAIN,shein.com
   - DOMAIN-SUFFIX,temu.com
