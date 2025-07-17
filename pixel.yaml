@@ -11,8 +11,6 @@ payload:
   #ahrefs
   - DOMAIN-SUFFIX,ahrefs.com
   - DOMAIN-SUFFIX,ahrefs.dev
-  #exe
-  - PROCESS-NAME,SunBrowser.exe
   #adspower
   - DOMAIN-SUFFIX,adspower.net
   #customer.io
