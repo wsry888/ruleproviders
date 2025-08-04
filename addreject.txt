@@ -2,7 +2,6 @@ screenstudioassets.com
 *.screenstudioassets.com
 tpstelemetry.tencent.com
 mazu.m.qq.com
-apm.lebo.cn
 dorangesource.alicdn.com
 maplocatesdksnapshot.d.meituan.net
 route-stats.d.meituan.net
