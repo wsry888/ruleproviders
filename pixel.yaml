@@ -23,3 +23,5 @@ payload:
   #aiyun
   - DOMAIN-SUFFIX,iaclouds.com
   - DOMAIN-SUFFIX,abenlab.xyz
+  #GA
+  - DOMAIN,analytics.google.com
