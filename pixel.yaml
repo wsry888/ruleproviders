@@ -23,6 +23,3 @@ payload:
   #aiyun
   - DOMAIN-SUFFIX,iaclouds.com
   - DOMAIN-SUFFIX,abenlab.xyz
-  - DOMAIN-SUFFIX,dnsv1.cc
-  - IP-CIDR,38.105.30.147/32,no-resolve
-  - IP-CIDR6,240e:e9:c050:5::3041/128,no-resolve
