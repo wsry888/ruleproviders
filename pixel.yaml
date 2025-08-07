@@ -11,8 +11,6 @@ payload:
   #ahrefs
   - DOMAIN-SUFFIX,ahrefs.com
   - DOMAIN-SUFFIX,ahrefs.dev
-  #adspower
-  - DOMAIN-SUFFIX,adspower.net
   #customer.io
   - DOMAIN-SUFFIX,customer.io
   - DOMAIN-SUFFIX,gist.build
