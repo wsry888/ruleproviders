@@ -21,9 +21,6 @@ craft.do
 ip.istatmenus.app
 *.abenlab.xyz
 in.appcenter.ms
-supercell.com
-*.supercell.com
-*.*.supercell.com
 immersivetranslate.com
 *.immersivetranslate.com
 *.*.immersivetranslate.com
