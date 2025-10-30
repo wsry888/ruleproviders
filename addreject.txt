@@ -71,3 +71,4 @@ meta.pinduoduo.com
 dns.wechat.com
 tbip.alicdn.com
 pubstatic.b0.upaiyun.com
+bepgzbgp01.004837963.xyz
