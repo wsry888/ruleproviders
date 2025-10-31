@@ -91,3 +91,4 @@ canonical.com
 *.canonical.com
 micu.hk
 *.micu.hk
+21-ipv6-251024.dnsv1.cc
