@@ -38,10 +38,10 @@ api.vvhan.com
 *.ip.sb
 *.*.ip.sb
 ip.sb
-# *.ipip.net
+*.ipip.net
 *.ip138.com
 ip138.com
-# ipip.net
+ipip.net
 *.ipapi.is
 ipapi.is
 *.*.ip-api.com
