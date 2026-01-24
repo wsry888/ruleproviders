@@ -25,3 +25,5 @@ payload:
   - DOMAIN,analytics.google.com
   #Claude中转
   - DOMAIN-SUFFIX,codesome.cn
+  #minimax
+  - DOMAIN-SUFFIX,minimax.io
