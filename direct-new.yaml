@@ -1,4 +1,5 @@
 payload:
+  #佳能
   - DOMAIN,canon.com
   - DOMAIN-SUFFIX,canon.com
   - DOMAIN-KEYWORD,canon
@@ -10,10 +11,13 @@ payload:
   - DOMAIN-SUFFIX,canonproprinters.com
   - DOMAIN-SUFFIX,canon.net
   - DOMAIN-SUFFIX,canonical.com
-  - DOMAIN-SUFFIX,micu.hk
-  - DOMAIN,tv.micu.hk
+  #1688
   - DOMAIN-SUFFIX,chnprice.com
   - DOMAIN-SUFFIX,aliprice.com
+  
   - DOMAIN-SUFFIX,test-ipv6.com
+  
   - DOMAIN-SUFFIX,sportsteam368.com
+
+  #minimax
   - DOMAIN-SUFFIX,minimax.com
