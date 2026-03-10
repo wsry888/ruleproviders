@@ -25,3 +25,6 @@ payload:
   - DOMAIN,analytics.google.com
   #minimax
   - DOMAIN-SUFFIX,minimax.io
+  #ai中转
+  - DOMAIN-SUFFIX,codesome.cn
+  
