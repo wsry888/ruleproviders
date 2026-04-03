@@ -21,3 +21,7 @@ payload:
 
   #minimax
   - DOMAIN-SUFFIX,minimax.com
+
+  #payful
+  - DOMAIN-SUFFIX,haishuu.com
+  - DOMAIN-SUFFIX,payful.com
