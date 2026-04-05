@@ -55,8 +55,6 @@ ipwho.is
 *.ipgeolocation.io
 *.ipregistry.co
 *.db-ip.com
-ip.skk.moe
-*.ip.skk.moe
 onetrust.com
 *.onetrust.com
 *.*.onetrust.com
