@@ -8,10 +8,6 @@ route-stats.d.meituan.net
 metrics-picture.d.meituan.net
 al-log.d.meituan.net
 babel-statistics-android.d.meituan.net
-toblog.ctobsnssdk.com
-app-cdn.2q10.com
-api-access.pangolin-sdk-toutiao1.com
-slb-p2p.vcloud.ks-live.com
 natdetection.onethingpcs.com
 *.supercachenet.com
 aone.alibaba-inc.com
