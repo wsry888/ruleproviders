@@ -21,3 +21,4 @@ payload:
 
   #minimax
   - DOMAIN-SUFFIX,minimax.com
+  - DOMAIN-SUFFIX,cc.cd
