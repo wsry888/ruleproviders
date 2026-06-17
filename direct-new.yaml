@@ -22,3 +22,4 @@ payload:
   #minimax
   - DOMAIN-SUFFIX,minimax.com
   - DOMAIN-SUFFIX,cc.cd
+  - DOMAIN-SUFFIX,hidns.vip
