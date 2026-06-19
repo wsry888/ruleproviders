@@ -1,0 +1,3 @@
+[HOST]
+RULE-SET:https://raw.githubusercontent.com/wsry888/ruleproviders/refs/heads/main/chinamax.conf = server:https://dns.alidns.com/dns-query
+RULE-SET:https://raw.githubusercontent.com/wsry888/ruleproviders/refs/heads/main/direct-new.yaml = server:https://dns.alidns.com/dns-query
