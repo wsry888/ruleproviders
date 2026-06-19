@@ -14,7 +14,6 @@ RULE-SET:https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/xiaomi.co
 RULE-SET:https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/bytedance.conf = server:180.184.2.2
 RULE-SET:https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/baidu.conf = server:180.76.76.76
 RULE-SET:https://raw.githubusercontent.com/wsry888/ruleproviders/refs/heads/main/chinamax.conf = server:https://dns.alidns.com/dns-query
-RULE-SET:https://raw.githubusercontent.com/wsry888/ruleproviders/refs/heads/main/direct-new.yaml = server:https://dns.alidns.com/dns-query
 RULE-SET:https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/qihoo360.conf = server:https://doh.360.cn/dns-query
 RULE-SET:https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/hotspot_captive_portal.conf = server:system
 *.m2m = server:system
