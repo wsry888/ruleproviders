@@ -23,3 +23,6 @@ payload:
   - DOMAIN-SUFFIX,minimax.com
   - DOMAIN-SUFFIX,cc.cd
   - DOMAIN-SUFFIX,hidns.vip
+
+  #优选IP
+  - DOMAIN,ipv4.fxxk.dedyn.io
