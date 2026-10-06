@@ -25,4 +25,4 @@ payload:
   - DOMAIN-SUFFIX,hidns.vip
 
   #优选IP
- #  - DOMAIN,ipv4.fxxk.dedyn.io
+  - DOMAIN,ipv4.fxxk.dedyn.io
